@@ -29,3 +29,4 @@ D:\PostMaker\Data\obj\Debug\net9.0\DataAccessLayer.dll
 D:\PostMaker\Data\obj\Debug\net9.0\refint\DataAccessLayer.dll
 D:\PostMaker\Data\obj\Debug\net9.0\DataAccessLayer.pdb
 D:\PostMaker\Data\obj\Debug\net9.0\ref\DataAccessLayer.dll
+D:\PostMaker\Data\obj\Debug\net9.0\DataAccessLayer.sourcelink.json

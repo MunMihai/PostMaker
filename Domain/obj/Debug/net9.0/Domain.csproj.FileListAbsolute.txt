@@ -21,3 +21,4 @@ D:\PostMaker\Domain\obj\Debug\net9.0\Domain.dll
 D:\PostMaker\Domain\obj\Debug\net9.0\refint\Domain.dll
 D:\PostMaker\Domain\obj\Debug\net9.0\Domain.pdb
 D:\PostMaker\Domain\obj\Debug\net9.0\ref\Domain.dll
+D:\PostMaker\Domain\obj\Debug\net9.0\Domain.sourcelink.json

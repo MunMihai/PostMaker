@@ -4,3 +4,7 @@ D:\PostMaker\PostMakerDatabase\bin\Release\PostMakerDatabase.pdb
 D:\PostMaker\PostMakerDatabase\obj\Release\PostMakerDatabase.sqlproj.AssemblyReference.cache
 D:\PostMaker\PostMakerDatabase\obj\Release\PostMakerDatabase.dll
 D:\PostMaker\PostMakerDatabase\obj\Release\PostMakerDatabase.pdb
+D:\PostMaker\PostMakerDatabase\obj\Release\Model.xml
+D:\PostMaker\PostMakerDatabase\obj\Release\refactor.xml
+D:\PostMaker\PostMakerDatabase\obj\Release\postdeploy.sql
+D:\PostMaker\PostMakerDatabase\obj\Release\predeploy.sql

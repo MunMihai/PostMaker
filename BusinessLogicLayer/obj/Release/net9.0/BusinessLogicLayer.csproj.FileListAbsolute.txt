@@ -17,3 +17,4 @@ D:\PostMaker\BusinessLogicLayer\obj\Release\net9.0\BusinessLogicLayer.dll
 D:\PostMaker\BusinessLogicLayer\obj\Release\net9.0\refint\BusinessLogicLayer.dll
 D:\PostMaker\BusinessLogicLayer\obj\Release\net9.0\BusinessLogicLayer.pdb
 D:\PostMaker\BusinessLogicLayer\obj\Release\net9.0\ref\BusinessLogicLayer.dll
+D:\PostMaker\BusinessLogicLayer\obj\Release\net9.0\BusinessLogicLayer.sourcelink.json

@@ -229,3 +229,4 @@ D:\PostMaker\PostMaker\obj\Release\net9.0\refint\PostMaker.dll
 D:\PostMaker\PostMaker\obj\Release\net9.0\PostMaker.pdb
 D:\PostMaker\PostMaker\obj\Release\net9.0\PostMaker.genruntimeconfig.cache
 D:\PostMaker\PostMaker\obj\Release\net9.0\ref\PostMaker.dll
+D:\PostMaker\PostMaker\obj\Release\net9.0\PostMaker.sourcelink.json

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DataContract")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c1bc426ab5de2a8438c8ade9883272f3cb9d7b5")]
 [assembly: System.Reflection.AssemblyProductAttribute("DataContract")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DataContract")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,11 @@
+D:\PostMaker\Domain\bin\Release\net9.0\Domain.deps.json
+D:\PostMaker\Domain\bin\Release\net9.0\Domain.dll
+D:\PostMaker\Domain\bin\Release\net9.0\Domain.pdb
+D:\PostMaker\Domain\obj\Release\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\PostMaker\Domain\obj\Release\net9.0\Domain.AssemblyInfoInputs.cache
+D:\PostMaker\Domain\obj\Release\net9.0\Domain.AssemblyInfo.cs
+D:\PostMaker\Domain\obj\Release\net9.0\Domain.csproj.CoreCompileInputs.cache
+D:\PostMaker\Domain\obj\Release\net9.0\Domain.dll
+D:\PostMaker\Domain\obj\Release\net9.0\refint\Domain.dll
+D:\PostMaker\Domain\obj\Release\net9.0\Domain.pdb
+D:\PostMaker\Domain\obj\Release\net9.0\ref\Domain.dll

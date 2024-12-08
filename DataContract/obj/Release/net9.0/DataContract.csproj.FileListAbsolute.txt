@@ -1,0 +1,11 @@
+D:\PostMaker\DataContract\bin\Release\net9.0\DataContract.deps.json
+D:\PostMaker\DataContract\bin\Release\net9.0\DataContract.dll
+D:\PostMaker\DataContract\bin\Release\net9.0\DataContract.pdb
+D:\PostMaker\DataContract\obj\Release\net9.0\DataContract.GeneratedMSBuildEditorConfig.editorconfig
+D:\PostMaker\DataContract\obj\Release\net9.0\DataContract.AssemblyInfoInputs.cache
+D:\PostMaker\DataContract\obj\Release\net9.0\DataContract.AssemblyInfo.cs
+D:\PostMaker\DataContract\obj\Release\net9.0\DataContract.csproj.CoreCompileInputs.cache
+D:\PostMaker\DataContract\obj\Release\net9.0\DataContract.dll
+D:\PostMaker\DataContract\obj\Release\net9.0\refint\DataContract.dll
+D:\PostMaker\DataContract\obj\Release\net9.0\DataContract.pdb
+D:\PostMaker\DataContract\obj\Release\net9.0\ref\DataContract.dll

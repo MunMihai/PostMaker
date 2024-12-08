@@ -1,0 +1,23 @@
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\DataContract\bin\Debug\net9.0\DataContract.deps.json
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\DataContract\bin\Debug\net9.0\DataContract.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\DataContract\bin\Debug\net9.0\DataContract.pdb
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\DataContract\obj\Debug\net9.0\DataContract.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\DataContract\obj\Debug\net9.0\DataContract.AssemblyInfoInputs.cache
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\DataContract\obj\Debug\net9.0\DataContract.AssemblyInfo.cs
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\DataContract\obj\Debug\net9.0\DataContract.csproj.CoreCompileInputs.cache
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\DataContract\obj\Debug\net9.0\DataContract.sourcelink.json
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\DataContract\obj\Debug\net9.0\DataContract.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\DataContract\obj\Debug\net9.0\refint\DataContract.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\DataContract\obj\Debug\net9.0\DataContract.pdb
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\DataContract\obj\Debug\net9.0\ref\DataContract.dll
+D:\PostMaker\DataContract\bin\Debug\net9.0\DataContract.deps.json
+D:\PostMaker\DataContract\bin\Debug\net9.0\DataContract.dll
+D:\PostMaker\DataContract\bin\Debug\net9.0\DataContract.pdb
+D:\PostMaker\DataContract\obj\Debug\net9.0\DataContract.GeneratedMSBuildEditorConfig.editorconfig
+D:\PostMaker\DataContract\obj\Debug\net9.0\DataContract.AssemblyInfoInputs.cache
+D:\PostMaker\DataContract\obj\Debug\net9.0\DataContract.AssemblyInfo.cs
+D:\PostMaker\DataContract\obj\Debug\net9.0\DataContract.csproj.CoreCompileInputs.cache
+D:\PostMaker\DataContract\obj\Debug\net9.0\DataContract.dll
+D:\PostMaker\DataContract\obj\Debug\net9.0\refint\DataContract.dll
+D:\PostMaker\DataContract\obj\Debug\net9.0\DataContract.pdb
+D:\PostMaker\DataContract\obj\Debug\net9.0\ref\DataContract.dll

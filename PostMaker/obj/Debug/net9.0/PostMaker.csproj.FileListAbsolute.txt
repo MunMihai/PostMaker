@@ -1,0 +1,291 @@
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\bin\Debug\net9.0\appsettings.Development.json
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\bin\Debug\net9.0\appsettings.json
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\bin\Debug\net9.0\PostMaker.staticwebassets.runtime.json
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\bin\Debug\net9.0\PostMaker.staticwebassets.endpoints.json
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\bin\Debug\net9.0\PostMaker.exe
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\bin\Debug\net9.0\PostMaker.deps.json
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\bin\Debug\net9.0\PostMaker.runtimeconfig.json
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\bin\Debug\net9.0\PostMaker.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\bin\Debug\net9.0\PostMaker.pdb
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\PostMaker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\PostMaker.AssemblyInfoInputs.cache
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\PostMaker.AssemblyInfo.cs
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\PostMaker.csproj.CoreCompileInputs.cache
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\PostMaker.MvcApplicationPartsAssemblyInfo.cache
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\PostMaker.RazorAssemblyInfo.cache
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\PostMaker.RazorAssemblyInfo.cs
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\PostMaker.sourcelink.json
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\scopedcss\bundle\PostMaker.styles.css
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\scopedcss\projectbundle\PostMaker.bundle.scp.css
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\xke808q9xg-61n19gt1b8.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\dw4k9gn4x6-xtxxf3hu2r.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\01snv1sam3-bqjiyaj88i.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\mllv9avxzu-c2jlpeoesf.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\kbm5yeekrl-erw9l3u2r3.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\swlr6sv2mg-aexeepp0ev.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\qpvp0ixvth-d7shbmvgxk.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\m8qgq4wyd1-ausgxo2sd3.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\mh62vzacw3-k8d9w2qqmf.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\q4v6rdhnfg-cosvhxvwiu.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\g0uimwebxb-ub07r2b239.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\hk5daaoxui-fvhpjtyr6v.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\bwjgfpk7gt-b7pk76d08c.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\vckpy7qdor-fsbi9cje9m.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\1hckc9n0jl-rzd6atqjts.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\nt0obwrexg-ee0r1s7dh0.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\w99d2v3tlw-dxx9fxp4il.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\nld963s236-jd9uben2k1.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\c4yxc2gjmb-khv3u5hwcm.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\sjifo1ebzb-r4e9w2rdcm.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\40ww1iaeqt-lcd1t2u6c8.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\l82b2q3gp6-c2oey78nd0.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\9elrzyz7cm-tdbxkamptv.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\mnkne7nujb-j5mq2jizvt.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\p8pvg4bmmn-06098lyss8.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\s3olgg7ldz-nvvlpmu67g.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\9nshi50186-s35ty4nyc5.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\kke160liaf-pj5nd1wqec.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\izur1esaeb-46ein0sx1k.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\hk7sp4shb0-v0zj4ognzu.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\dvzz6jm9lp-37tfw0ft22.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\z9p0su2hut-hrwsygsryq.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\k4bne4phus-pk9g2wxc8p.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\30tiyazmen-ft3s53vfgj.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\v54d40a01p-6cfz1n2cew.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\ajenpa8tu2-6pdc2jztkx.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\by5m1bi8qu-493y06b0oq.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\144bh01gty-iovd86k7lj.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\tkzw3ir3bo-vr1egmr9el.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\5y1w9hw2pq-kbrnm935zg.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\6mde0phw4o-jj8uyg4cgr.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\041x5q204h-y7v9cxd14o.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\6ndnqbyxj2-notf2xhcfb.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\4z9x4w0bn9-h1s4sie4z3.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\edctauq3wm-63fj8s7r0e.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\xpvbpvzfq8-0j3bgjxly4.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\z92cua8c7h-47otxtyo56.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\jiuklrcbuj-4v8eqarkd7.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\wcvitzkmsg-356vix0kms.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\y0pbv7ef7m-83jwlth58m.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\mov10oprpl-mrlpezrjn3.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\sepl9as8lv-lzl9nlhx6b.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\sujzjk0m2h-ag7o75518u.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\bj684sx4eu-x0q3zqp4vz.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\ot2rtuqua5-0i3buxo5is.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\j6eim32bd8-o1o13a6vjx.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\tvwpnlo7ro-ttgo8qnofa.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\69wlih55u1-2z0ns9nrw6.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\2yascraa4r-muycvpuwrr.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\dntxn18648-87fc7y1x7t.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\ya5f9tu4il-mlv21k5csn.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\qinla18j8x-88cd7cxcvm.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\czik0issy5-88cd7cxcvm.gz
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\staticwebassets.build.json
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\staticwebassets.development.json
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\staticwebassets\msbuild.PostMaker.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\staticwebassets\msbuild.PostMaker.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\staticwebassets\msbuild.build.PostMaker.props
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.PostMaker.props
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.PostMaker.props
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\staticwebassets.pack.json
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\PostMaker.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\refint\PostMaker.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\PostMaker.pdb
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\PostMaker.genruntimeconfig.cache
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\ref\PostMaker.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\bin\Debug\net9.0\Azure.Core.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\bin\Debug\net9.0\Azure.Identity.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\bin\Debug\net9.0\Dapper.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\bin\Debug\net9.0\System.ClientModel.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\bin\Debug\net9.0\System.Memory.Data.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\bin\Debug\net9.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\bin\Debug\net9.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\bin\Debug\net9.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\bin\Debug\net9.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\bin\Debug\net9.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\bin\Debug\net9.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\bin\Debug\net9.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\bin\Debug\net9.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\bin\Debug\net9.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\bin\Debug\net9.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\bin\Debug\net9.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\bin\Debug\net9.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\bin\Debug\net9.0\BusinessLogicLayer.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\bin\Debug\net9.0\DataAccessLayer.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\bin\Debug\net9.0\DataContract.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\bin\Debug\net9.0\Domain.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\bin\Debug\net9.0\BusinessLogicLayer.pdb
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\bin\Debug\net9.0\DataContract.pdb
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\bin\Debug\net9.0\DataAccessLayer.pdb
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\bin\Debug\net9.0\Domain.pdb
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\PostMaker.csproj.AssemblyReference.cache
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\PostMaker.csproj.Up2Date
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMaker\obj\Debug\net9.0\compressed\475ihlmv05-wpjn9q3jk0.gz
+D:\PostMaker\PostMaker\bin\Debug\net9.0\appsettings.Development.json
+D:\PostMaker\PostMaker\bin\Debug\net9.0\appsettings.json
+D:\PostMaker\PostMaker\bin\Debug\net9.0\PostMaker.staticwebassets.endpoints.json
+D:\PostMaker\PostMaker\bin\Debug\net9.0\PostMaker.staticwebassets.runtime.json
+D:\PostMaker\PostMaker\bin\Debug\net9.0\PostMaker.exe
+D:\PostMaker\PostMaker\bin\Debug\net9.0\PostMaker.deps.json
+D:\PostMaker\PostMaker\bin\Debug\net9.0\PostMaker.runtimeconfig.json
+D:\PostMaker\PostMaker\bin\Debug\net9.0\PostMaker.dll
+D:\PostMaker\PostMaker\bin\Debug\net9.0\PostMaker.pdb
+D:\PostMaker\PostMaker\bin\Debug\net9.0\Azure.Core.dll
+D:\PostMaker\PostMaker\bin\Debug\net9.0\Azure.Identity.dll
+D:\PostMaker\PostMaker\bin\Debug\net9.0\Dapper.dll
+D:\PostMaker\PostMaker\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PostMaker\PostMaker\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\PostMaker\PostMaker\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\PostMaker\PostMaker\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\PostMaker\PostMaker\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\PostMaker\PostMaker\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PostMaker\PostMaker\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\PostMaker\PostMaker\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\PostMaker\PostMaker\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PostMaker\PostMaker\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\PostMaker\PostMaker\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\PostMaker\PostMaker\bin\Debug\net9.0\System.ClientModel.dll
+D:\PostMaker\PostMaker\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\PostMaker\PostMaker\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PostMaker\PostMaker\bin\Debug\net9.0\System.Memory.Data.dll
+D:\PostMaker\PostMaker\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\PostMaker\PostMaker\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\PostMaker\PostMaker\bin\Debug\net9.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\PostMaker\PostMaker\bin\Debug\net9.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\PostMaker\PostMaker\bin\Debug\net9.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\PostMaker\PostMaker\bin\Debug\net9.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\PostMaker\PostMaker\bin\Debug\net9.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\PostMaker\PostMaker\bin\Debug\net9.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\PostMaker\PostMaker\bin\Debug\net9.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\PostMaker\PostMaker\bin\Debug\net9.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\PostMaker\PostMaker\bin\Debug\net9.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\PostMaker\PostMaker\bin\Debug\net9.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\PostMaker\PostMaker\bin\Debug\net9.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\PostMaker\PostMaker\bin\Debug\net9.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\PostMaker\PostMaker\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PostMaker\PostMaker\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PostMaker\PostMaker\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PostMaker\PostMaker\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PostMaker\PostMaker\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\PostMaker\PostMaker\bin\Debug\net9.0\BusinessLogicLayer.dll
+D:\PostMaker\PostMaker\bin\Debug\net9.0\DataAccessLayer.dll
+D:\PostMaker\PostMaker\bin\Debug\net9.0\DataContract.dll
+D:\PostMaker\PostMaker\bin\Debug\net9.0\Domain.dll
+D:\PostMaker\PostMaker\bin\Debug\net9.0\BusinessLogicLayer.pdb
+D:\PostMaker\PostMaker\bin\Debug\net9.0\DataContract.pdb
+D:\PostMaker\PostMaker\bin\Debug\net9.0\DataAccessLayer.pdb
+D:\PostMaker\PostMaker\bin\Debug\net9.0\Domain.pdb
+D:\PostMaker\PostMaker\obj\Debug\net9.0\PostMaker.csproj.AssemblyReference.cache
+D:\PostMaker\PostMaker\obj\Debug\net9.0\PostMaker.GeneratedMSBuildEditorConfig.editorconfig
+D:\PostMaker\PostMaker\obj\Debug\net9.0\PostMaker.AssemblyInfoInputs.cache
+D:\PostMaker\PostMaker\obj\Debug\net9.0\PostMaker.AssemblyInfo.cs
+D:\PostMaker\PostMaker\obj\Debug\net9.0\PostMaker.csproj.CoreCompileInputs.cache
+D:\PostMaker\PostMaker\obj\Debug\net9.0\PostMaker.MvcApplicationPartsAssemblyInfo.cache
+D:\PostMaker\PostMaker\obj\Debug\net9.0\PostMaker.RazorAssemblyInfo.cache
+D:\PostMaker\PostMaker\obj\Debug\net9.0\PostMaker.RazorAssemblyInfo.cs
+D:\PostMaker\PostMaker\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\PostMaker\PostMaker\obj\Debug\net9.0\scopedcss\bundle\PostMaker.styles.css
+D:\PostMaker\PostMaker\obj\Debug\net9.0\scopedcss\projectbundle\PostMaker.bundle.scp.css
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\475ihlmv05-wpjn9q3jk0.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\xke808q9xg-61n19gt1b8.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\dw4k9gn4x6-xtxxf3hu2r.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\01snv1sam3-bqjiyaj88i.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\mllv9avxzu-c2jlpeoesf.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\kbm5yeekrl-erw9l3u2r3.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\swlr6sv2mg-aexeepp0ev.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\qpvp0ixvth-d7shbmvgxk.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\m8qgq4wyd1-ausgxo2sd3.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\mh62vzacw3-k8d9w2qqmf.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\q4v6rdhnfg-cosvhxvwiu.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\g0uimwebxb-ub07r2b239.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\hk5daaoxui-fvhpjtyr6v.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\bwjgfpk7gt-b7pk76d08c.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\vckpy7qdor-fsbi9cje9m.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\1hckc9n0jl-rzd6atqjts.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\nt0obwrexg-ee0r1s7dh0.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\w99d2v3tlw-dxx9fxp4il.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\nld963s236-jd9uben2k1.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\c4yxc2gjmb-khv3u5hwcm.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\sjifo1ebzb-r4e9w2rdcm.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\40ww1iaeqt-lcd1t2u6c8.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\l82b2q3gp6-c2oey78nd0.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\9elrzyz7cm-tdbxkamptv.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\mnkne7nujb-j5mq2jizvt.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\p8pvg4bmmn-06098lyss8.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\s3olgg7ldz-nvvlpmu67g.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\9nshi50186-s35ty4nyc5.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\kke160liaf-pj5nd1wqec.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\izur1esaeb-46ein0sx1k.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\hk7sp4shb0-v0zj4ognzu.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\dvzz6jm9lp-37tfw0ft22.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\z9p0su2hut-hrwsygsryq.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\k4bne4phus-pk9g2wxc8p.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\30tiyazmen-ft3s53vfgj.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\v54d40a01p-6cfz1n2cew.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\ajenpa8tu2-6pdc2jztkx.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\by5m1bi8qu-493y06b0oq.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\144bh01gty-iovd86k7lj.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\tkzw3ir3bo-vr1egmr9el.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\5y1w9hw2pq-kbrnm935zg.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\6mde0phw4o-jj8uyg4cgr.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\041x5q204h-y7v9cxd14o.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\6ndnqbyxj2-notf2xhcfb.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\4z9x4w0bn9-h1s4sie4z3.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\edctauq3wm-63fj8s7r0e.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\xpvbpvzfq8-0j3bgjxly4.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\z92cua8c7h-47otxtyo56.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\jiuklrcbuj-4v8eqarkd7.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\wcvitzkmsg-356vix0kms.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\y0pbv7ef7m-83jwlth58m.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\mov10oprpl-mrlpezrjn3.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\sepl9as8lv-lzl9nlhx6b.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\sujzjk0m2h-ag7o75518u.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\bj684sx4eu-x0q3zqp4vz.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\ot2rtuqua5-0i3buxo5is.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\j6eim32bd8-o1o13a6vjx.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\tvwpnlo7ro-ttgo8qnofa.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\69wlih55u1-2z0ns9nrw6.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\2yascraa4r-muycvpuwrr.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\dntxn18648-87fc7y1x7t.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\ya5f9tu4il-mlv21k5csn.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\qinla18j8x-88cd7cxcvm.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\compressed\czik0issy5-88cd7cxcvm.gz
+D:\PostMaker\PostMaker\obj\Debug\net9.0\staticwebassets.build.json
+D:\PostMaker\PostMaker\obj\Debug\net9.0\staticwebassets.development.json
+D:\PostMaker\PostMaker\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\PostMaker\PostMaker\obj\Debug\net9.0\staticwebassets\msbuild.PostMaker.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PostMaker\PostMaker\obj\Debug\net9.0\staticwebassets\msbuild.PostMaker.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\PostMaker\PostMaker\obj\Debug\net9.0\staticwebassets\msbuild.build.PostMaker.props
+D:\PostMaker\PostMaker\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.PostMaker.props
+D:\PostMaker\PostMaker\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.PostMaker.props
+D:\PostMaker\PostMaker\obj\Debug\net9.0\staticwebassets.pack.json
+D:\PostMaker\PostMaker\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\PostMaker\PostMaker\obj\Debug\net9.0\PostMaker.csproj.Up2Date
+D:\PostMaker\PostMaker\obj\Debug\net9.0\PostMaker.dll
+D:\PostMaker\PostMaker\obj\Debug\net9.0\refint\PostMaker.dll
+D:\PostMaker\PostMaker\obj\Debug\net9.0\PostMaker.pdb
+D:\PostMaker\PostMaker\obj\Debug\net9.0\PostMaker.genruntimeconfig.cache
+D:\PostMaker\PostMaker\obj\Debug\net9.0\ref\PostMaker.dll

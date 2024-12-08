@@ -1,0 +1,39 @@
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\BusinessLogicLayer\bin\Debug\net9.0\BusinessLogicLayer.deps.json
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\BusinessLogicLayer\bin\Debug\net9.0\BusinessLogicLayer.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\BusinessLogicLayer\bin\Debug\net9.0\BusinessLogicLayer.pdb
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\BusinessLogicLayer\bin\Debug\net9.0\DataAccessLayer.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\BusinessLogicLayer\bin\Debug\net9.0\DataContract.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\BusinessLogicLayer\bin\Debug\net9.0\Domain.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\BusinessLogicLayer\bin\Debug\net9.0\DataContract.pdb
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\BusinessLogicLayer\bin\Debug\net9.0\DataAccessLayer.pdb
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\BusinessLogicLayer\bin\Debug\net9.0\Domain.pdb
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\BusinessLogicLayer\obj\Debug\net9.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\BusinessLogicLayer\obj\Debug\net9.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\BusinessLogicLayer\obj\Debug\net9.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\BusinessLogicLayer\obj\Debug\net9.0\BusinessLogicLayer.AssemblyInfo.cs
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\BusinessLogicLayer\obj\Debug\net9.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\BusinessLogicLayer\obj\Debug\net9.0\BusinessLogicLayer.sourcelink.json
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\BusinessLogicLayer\obj\Debug\net9.0\Business.450209FB.Up2Date
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\BusinessLogicLayer\obj\Debug\net9.0\BusinessLogicLayer.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\BusinessLogicLayer\obj\Debug\net9.0\refint\BusinessLogicLayer.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\BusinessLogicLayer\obj\Debug\net9.0\BusinessLogicLayer.pdb
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\BusinessLogicLayer\obj\Debug\net9.0\ref\BusinessLogicLayer.dll
+D:\PostMaker\BusinessLogicLayer\bin\Debug\net9.0\BusinessLogicLayer.deps.json
+D:\PostMaker\BusinessLogicLayer\bin\Debug\net9.0\BusinessLogicLayer.dll
+D:\PostMaker\BusinessLogicLayer\bin\Debug\net9.0\BusinessLogicLayer.pdb
+D:\PostMaker\BusinessLogicLayer\bin\Debug\net9.0\DataAccessLayer.dll
+D:\PostMaker\BusinessLogicLayer\bin\Debug\net9.0\DataContract.dll
+D:\PostMaker\BusinessLogicLayer\bin\Debug\net9.0\Domain.dll
+D:\PostMaker\BusinessLogicLayer\bin\Debug\net9.0\DataContract.pdb
+D:\PostMaker\BusinessLogicLayer\bin\Debug\net9.0\DataAccessLayer.pdb
+D:\PostMaker\BusinessLogicLayer\bin\Debug\net9.0\Domain.pdb
+D:\PostMaker\BusinessLogicLayer\obj\Debug\net9.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\PostMaker\BusinessLogicLayer\obj\Debug\net9.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\PostMaker\BusinessLogicLayer\obj\Debug\net9.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+D:\PostMaker\BusinessLogicLayer\obj\Debug\net9.0\BusinessLogicLayer.AssemblyInfo.cs
+D:\PostMaker\BusinessLogicLayer\obj\Debug\net9.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\PostMaker\BusinessLogicLayer\obj\Debug\net9.0\Business.450209FB.Up2Date
+D:\PostMaker\BusinessLogicLayer\obj\Debug\net9.0\BusinessLogicLayer.dll
+D:\PostMaker\BusinessLogicLayer\obj\Debug\net9.0\refint\BusinessLogicLayer.dll
+D:\PostMaker\BusinessLogicLayer\obj\Debug\net9.0\BusinessLogicLayer.pdb
+D:\PostMaker\BusinessLogicLayer\obj\Debug\net9.0\ref\BusinessLogicLayer.dll

@@ -1,0 +1,23 @@
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\Domain\bin\Debug\net9.0\Domain.deps.json
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\Domain\bin\Debug\net9.0\Domain.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\Domain\bin\Debug\net9.0\Domain.pdb
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\Domain\obj\Debug\net9.0\Domain.sourcelink.json
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\Domain\obj\Debug\net9.0\Domain.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\Domain\obj\Debug\net9.0\refint\Domain.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\Domain\obj\Debug\net9.0\Domain.pdb
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\Domain\obj\Debug\net9.0\ref\Domain.dll
+D:\PostMaker\Domain\bin\Debug\net9.0\Domain.deps.json
+D:\PostMaker\Domain\bin\Debug\net9.0\Domain.dll
+D:\PostMaker\Domain\bin\Debug\net9.0\Domain.pdb
+D:\PostMaker\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\PostMaker\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+D:\PostMaker\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+D:\PostMaker\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+D:\PostMaker\Domain\obj\Debug\net9.0\Domain.dll
+D:\PostMaker\Domain\obj\Debug\net9.0\refint\Domain.dll
+D:\PostMaker\Domain\obj\Debug\net9.0\Domain.pdb
+D:\PostMaker\Domain\obj\Debug\net9.0\ref\Domain.dll

@@ -1,0 +1,31 @@
+﻿@using PostMaker.Models
+@model List<PostViewModel>
+
+@{
+	ViewData["Title"] = "Home Page";
+}
+
+<div class="container">
+	<a href="/Home/CreatePost" class="text-end">
+		<h5>Create your post</h5>
+	</a>
+
+	@if (Model.Any())
+	{
+		foreach (var post in Model)
+		{
+			<div class="post-container">
+				<div><b>@post.Author</b> Posted: </div>
+				<div class="post-content"> @Html.Raw(post.Content)</div>
+				<div class="text-end">@post.Created</div>
+			</div>
+
+		}
+	}
+	else
+	{
+		<h5>No Post in the last 24 hours to show!</h5>
+	}
+
+
+</div> 

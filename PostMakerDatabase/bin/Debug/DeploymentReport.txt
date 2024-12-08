@@ -1,0 +1,19 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Post] (Table)
+       Default Constraint: unnamed constraint on [dbo].[Post] (Default Constraint)
+
+** Supporting actions
+
+The project and target databases have different collation settings. Deployment errors might occur.
+

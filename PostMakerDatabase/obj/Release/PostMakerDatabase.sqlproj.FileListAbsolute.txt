@@ -1,0 +1,6 @@
+D:\PostMaker\PostMakerDatabase\bin\Release\PostMakerDatabase.dacpac
+D:\PostMaker\PostMakerDatabase\bin\Release\PostMakerDatabase.dll
+D:\PostMaker\PostMakerDatabase\bin\Release\PostMakerDatabase.pdb
+D:\PostMaker\PostMakerDatabase\obj\Release\PostMakerDatabase.sqlproj.AssemblyReference.cache
+D:\PostMaker\PostMakerDatabase\obj\Release\PostMakerDatabase.dll
+D:\PostMaker\PostMakerDatabase\obj\Release\PostMakerDatabase.pdb

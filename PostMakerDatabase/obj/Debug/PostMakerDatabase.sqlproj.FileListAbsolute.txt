@@ -1,0 +1,10 @@
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMakerDatabase\bin\Debug\PostMakerDatabase.dacpac
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMakerDatabase\bin\Debug\PostMakerDatabase.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMakerDatabase\bin\Debug\PostMakerDatabase.pdb
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMakerDatabase\obj\Debug\PostMakerDatabase.sqlproj.AssemblyReference.cache
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMakerDatabase\obj\Debug\PostMakerDatabase.dll
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMakerDatabase\obj\Debug\PostMakerDatabase.pdb
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMakerDatabase\obj\Debug\Model.xml
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMakerDatabase\obj\Debug\refactor.xml
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMakerDatabase\obj\Debug\postdeploy.sql
+D:\Universitate\Semestrul_7\Programarea_Aplicatiilor_Distribuite (PAD)\Laborator\PostMaker\PostMakerDatabase\obj\Debug\predeploy.sql

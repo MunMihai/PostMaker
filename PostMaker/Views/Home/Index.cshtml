@@ -15,7 +15,7 @@
 		foreach (var post in Model)
 		{
 			<div class="post-container">
-				<div><b>@post.Author</b> posted: </div>
+				<div><b>@post.Author</b> Posted: </div>
 				<div class="post-content"> @Html.Raw(post.Content)</div>
 				<div class="text-end">@post.Created</div>
 			</div>
